@@ -1,0 +1,14 @@
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\bin\Debug\net7.0\ss3.exe
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\bin\Debug\net7.0\ss3.deps.json
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\bin\Debug\net7.0\ss3.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\bin\Debug\net7.0\ss3.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\bin\Debug\net7.0\ss3.pdb
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\ss3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\ss3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\ss3.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\ss3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\ss3.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\refint\ss3.dll
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\ss3.pdb
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\ss3.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive - ueh.edu.vn\Desktop\CTDLGT\ss3\ss3\obj\Debug\net7.0\ref\ss3.dll
